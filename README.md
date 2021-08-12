@@ -1,6 +1,6 @@
 # Predicting-Flight-Price
 
-Deployment:
+Production:
 Link: [https://predflightprice.herokuapp.com/](https://predflightprice.herokuapp.com/)
 
 ## Overview
