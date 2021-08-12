@@ -1,7 +1,7 @@
 # Predicting-Flight-Price
 
 Deployment:
-Link: [https://flight-price-prediction-api.herokuapp.com/](https://flight-price-prediction-api.herokuapp.com/)
+Link: [https://predflightprice.herokuapp.com/](https://predflightprice.herokuapp.com/)
 
 ## Overview
 This project predicts the future price of the choosen flight. Here, we have used Random Forest Regressor to make prediction. To build this project we have used dataset from Kaggle. The dataset consist of 10683 rows and 11 columns.
