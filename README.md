@@ -8,7 +8,7 @@ This project predicts the future price of the choosen flight. Here, we have used
 
 ![image](https://user-images.githubusercontent.com/55655289/129272286-b312b0bb-4601-4fee-ac5e-01ee0e3b6cea.png)
 
-We have performed EDA on various variables in order to remove null, outliers. Also, performed datetime formatting. Below is the snippet of sns plot of y-test and y-prediction
+We have performed EDA on various variables in order to remove null, outliers. Also, performed datetime formatting. 
 
 # Contributors:
 * Rubab Saleem
